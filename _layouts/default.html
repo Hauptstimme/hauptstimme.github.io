@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Hauptstimme{% if page.title %} | {{ page.title }}{% endif %}</title>
+    {% include head.html %}
+  </head>
+
+  <body>
+    {% include header.html %}
+    <div class="content">{{ content }}</div>
+    {% include footer.html %}
+  </body>
+</html>
