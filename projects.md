@@ -11,3 +11,6 @@ title: Projects
 
 # Taskie
 <a href="https://github.com/Hauptstimme/taskie" class="github-link" target="_blank"><i class="icon-github"></i>Taskie</a> is a lightweight task management software. And it's open source, too.
+
+# Frankie
+Sinatra-based jukebox.
